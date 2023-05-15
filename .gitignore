@@ -1,0 +1,18 @@
+# Compiled files
+/target/
+
+# Generated documentation
+/doc/
+
+# Crate metadata
+Cargo.lock
+
+# Build artifacts
+**/*.rs.bk
+
+# Editor and IDE specific files
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
