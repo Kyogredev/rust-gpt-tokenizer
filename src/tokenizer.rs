@@ -3,7 +3,6 @@ use std::{collections::HashMap, error::Error};
 use std::{hash::Hash, cmp::Eq};
 use itertools::Itertools;
 use regex::Regex;
-use std::fs;
 
 #[derive(Debug, Clone)]
 pub struct GPT3_Tokenizer {
